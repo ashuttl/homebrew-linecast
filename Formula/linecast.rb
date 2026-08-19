@@ -3,8 +3,8 @@ class Linecast < Formula
 
   desc "Terminal weather, radar, solar arc, and tide visualizations"
   homepage "https://github.com/ashuttl/linecast"
-  url "https://files.pythonhosted.org/packages/d6/7a/e863adf6991ee7870a77463da407ee2c47d646bece88e6a1bcd7ac1c65ba/linecast-1.10.0.tar.gz"
-  sha256 "f5c411bbe5a9d2604fd34ae91ddb2c2de14077295f45be59c4db4ddca20ca3a2"
+  url "https://files.pythonhosted.org/packages/35/48/988c21346703b19024787b0c09d1024c68e99d05857660cf249e06a470bd/linecast-1.10.1.tar.gz"
+  sha256 "9d6795be89c879014e89059fab95ec709c8d4206a44128e0d5f6f1873326799b"
   license "MIT"
 
   depends_on "python@3.13"
